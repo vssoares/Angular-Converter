@@ -1,0 +1,14 @@
+
+
+
+div.titulo {
+  height: 152px;
+  text-align: center;
+  padding: 0 20px;
+}
+
+div.titulo h1{
+  font-size: 32px;
+  color: #000;
+  font-family: 'Russo One', sans-serif;
+}
