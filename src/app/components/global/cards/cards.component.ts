@@ -17,7 +17,7 @@ export class CardsComponent implements OnInit {
   pesoArgentinoNumber = 0;
 
 
-  resultadoRtD = 0;
+  resultadoDtR = 0;
   resultadoPAtR = 0;
   
 
@@ -45,8 +45,8 @@ export class CardsComponent implements OnInit {
 
   convertRealToDollar(){
     let valorInput = (<HTMLInputElement>document.getElementById('RtD')).value;
-    this.resultadoRtD = parseFloat(valorInput) * this.dolarNumber ;
-    console.log(this.resultadoRtD);
+    this.resultadoDtR = parseFloat(valorInput) * this.dolarNumber ;
+    console.log(this.resultadoDtR);
   }
 
   convertPesoArgentinoToReal(){

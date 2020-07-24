@@ -1,7 +1,7 @@
 <div class="d-flex flex-wrap justify-content-center">
-  <div class="card mb-5" style="width: 18rem;">
+  <div class="card mb-5 shadow-sm" style="width: 18rem;">
     <div class="card-body">
-      <h5 class="card-title ">Real to Dollar</h5>
+      <h5 class="card-title ">Dolár para Real</h5>
       <h6 class="card-subtitle mt-3 mb-2 text-muted">Valor do dollar hoje <br> R$ {{dolar}} </h6>
       <h6 class="card-subtitle mb-2 text-muted">Digite um valor</h6>
       <input 
@@ -12,7 +12,7 @@
       <div class="d-flex justify-content-between">
         <div>
           <h6>Resultado</h6>
-          <p>{{resultadoRtD | currency:'USD':'symbol':'1.2'}}</p>
+          <p>{{resultadoDtR | currency:'BRL':'symbol':'1.2'}}</p>
         </div>
         <div>
           <button class="btn btn-success" (click)="convertRealToDollar()">Converter</button>
@@ -33,7 +33,7 @@
       <div class="d-flex justify-content-between">
         <div>
           <h6>Resultado</h6>
-          <p>{{resultadoPAtR | currency:'USD':'symbol':'1.2'}}</p>
+          <p>{{resultadoPAtR | currency:'BRL':'symbol':'1.2'}}</p>
         </div>
         <div>
           <button class="btn btn-success" (click)="convertPesoArgentinoToReal()">Converter</button>
