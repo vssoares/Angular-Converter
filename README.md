@@ -30,4 +30,3 @@ O AnyCalculator tem como objetivo, facilitar a conversão de moedas. Com foco pr
 
 
 Feito com ♥ by ViniciusSoares 
-=======
