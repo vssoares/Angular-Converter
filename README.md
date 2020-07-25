@@ -1,27 +1,32 @@
-# AnyCalculator
+<h1>
+    <h1 align='center'>AnyCalculator</h1>
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+<h4 align="center">
+  🚀 <a href=''>Link do App</a>
+</h4>
 
-## Development server
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<br>
 
-## Code scaffolding
+<p align="center">
+<a href="https://ibb.co/yq3LMy7"><img src="https://i.ibb.co/bXfpyBD/Screenshot-1.png" alt="Screenshot-1" border="0" height='500px'></a>
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## :rocket: Tecnologias
 
-## Build
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- [Node.js](https://angular.io/)
+- [Angular 10](https://reactjs.org)
 
-## Running unit tests
+## 💻 Projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O AnyCalculator tem como objetivo, facilitar a conversão de moedas. Com foco principal nas pessoas que por motivos desconhecidos, tem sua [Steam](https://steamcommunity.com/) localizada na Argentina, e querem saber o valor do peso argentino
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Feito com ♥ by ViniciusSoares 
