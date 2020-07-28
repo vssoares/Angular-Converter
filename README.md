@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-<a href="https://ibb.co/yq3LMy7"><img src="https://i.ibb.co/bXfpyBD/Screenshot-1.png" alt="Screenshot-1" border="0" height='500px'></a>
+<a href="https://ibb.co/yq3LMy7"><img src="" alt="app-1" border="0" height='500px'></a>
 </p>
 
 ## :rocket: Tecnologias
